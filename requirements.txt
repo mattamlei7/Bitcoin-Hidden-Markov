@@ -1,0 +1,8 @@
+hmmlearn
+pandas
+numpy
+matplotlib
+scikit-learn
+backtesting
+pandas-ta
+joblib
